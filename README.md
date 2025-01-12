@@ -105,4 +105,4 @@ This project is licensed under the MIT License. For more information, see the [L
 
 ---
 
-🎓 We hope these notes help you on your Python programming journey! For more details, you can check out Atıl Samancıoğlu's course series.
+🎓 I hope these notes help you on your Python programming journey! For more details, you can check out Atıl Samancıoğlu's course series.
