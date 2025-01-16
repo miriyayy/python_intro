@@ -99,9 +99,6 @@ To explore these notes, follow the steps below:
 
 If you find any errors or omissions in these notes, please contribute by creating a **Pull Request**. Additionally, feel free to share your suggestions and questions in the **Issues** section.
 
-## License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
 
 ---
 
