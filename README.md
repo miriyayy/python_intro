@@ -98,4 +98,4 @@ To explore these notes, follow the steps below:
 
 ---
 
-🎓 I hope these notes help you on your Python programming journey! For more details, you can check out Atıl Samancıoğlu's course series.
+🎓 I hope these notes help you on your Python programming journey! For more details, you can check out Atıl Samancıoğlu's course series. :)
